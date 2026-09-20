@@ -1,6 +1,6 @@
 # Software Architecture Model
 
-This project fine-tunes `Qwen/Qwen2.5-Coder-7B-Instruct` on the `ajibawa-2023/Software-Architecture` dataset using 4-bit QLoRA.
+This project fine-tunes `Qwen/Qwen2.5-Coder-7B-Instruct` on the `ajibawa-2023/Software-Architecture` dataset using 4-bit QLoRA. This built this model hosted on [HuggingFace](https://huggingface.co/JamesAHowieson/SoftwareArchitecture)
 
 ## Requirements
 
